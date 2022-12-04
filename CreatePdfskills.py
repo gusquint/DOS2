@@ -21,12 +21,5 @@ def main():
     imprimir(lista,"C:/Users/PC/Desktop/python/DOS2/DOS2 skills.pdf")
 
 
-    """poder1=Skill(info[208])
-    poder2=Skill(info[209])
-    poder3=Skill(info[0])
-
-    imprimir([poder1,poder2,poder3],"C:/Users/PC/Desktop/python/DOS2/DOS2 algunas skills.pdf")"""
-
-
 if __name__ == "__main__":
     main() 
